@@ -47,7 +47,7 @@ export default function Home() {
               </motion.p>
               <div className="flex items-center self-start mt-2 lg:self-center ">
                 <Link
-                  href="/dummy.pdf"
+                  href="/Brilliant_Makanju_Resume.pdf"
                   target={"_blank"}
                   className="md:p-2 md:text-base flex items-center  dark:bg-light dark:text-dark hover:dark:bg-dark hover:dark:text-light dark:border-light bg-dark text-light p-2.5 px-6 rounded-lg text-lg font-semibold hover:bg-light hover:text-dark transition ease-in-out duration-300 border border-solid border-transparent hover:border-dark"
                   download={true}
