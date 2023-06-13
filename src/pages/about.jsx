@@ -39,17 +39,18 @@ Join me in crafting innovative digital experiences that captivate and inspire."
                 Who i am
               </h2>
               <p className="font-medium ">
-                As a passionate and dedicated full stack web developer, I'm
+                As a passionate and dedicated full stack web developer, {"I'm"}
                 Jolex, also known as Brilliant Makanju. At the age of 18, I
                 embarked on my coding journey, and for the past three years,
-                I've been honing my skills in Django, React, Next.js, MySQL,
+                {"I've"} been honing my skills in Django, React, Next.js, MySQL,
                 SQLite, Git, Figma, Python, and JavaScript (with some exposure
-                to TypeScript). While I haven't had professional experience yet,
-                I'm constantly expanding my knowledge and staying updated with
-                the latest industry trends. When I'm not coding, you can find me
-                immersed in gaming, particularly as a Call of Duty player, or
-                conducting research to enhance my problem-solving abilities.
-                Feel free to reach out to me
+                to TypeScript). While I {"haven't"} had professional experience
+                yet,
+                {"I'm"} constantly expanding my knowledge and staying updated
+                with the latest industry trends. When {"I'm"} not coding, you
+                can find me immersed in gaming, particularly as a Call of Duty
+                player, or conducting research to enhance my problem-solving
+                abilities. Feel free to reach out to me
               </p>
             </div>
             <div className="col-span-3 relative group h-max rounded-2xl border-2 border-solid border-dark bg-[#ffae00] dark:bg-dark dark:border-light transition duration-300 ease-in-out p-8 ">
